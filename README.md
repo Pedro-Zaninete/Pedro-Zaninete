@@ -3,7 +3,7 @@
 
 - 🔭 Aficionado pelo potencial transformador da tecnologia.
 - 🌱 Trabalhei 2 anos como aprendiz na Mercedes-Benz durante meu curso Técnico de Mecatrônica.
-- 👨🏼‍🎓 Cursando Ciencia da Computação na USJT.
+- 👨🏼‍🎓 Cursando Análise e Desenvolvimento de Sistemas no IPOG.
 - ⚡ Densenvolvedor de Software Full Stack em formação na Cubos Academy.
 - 💬 Busco oportunidades de estágio ou posição júnior para continuar crescendo profissionalmente.
 
